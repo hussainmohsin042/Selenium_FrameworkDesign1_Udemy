@@ -2028,3 +2028,8 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.gu
 2023-01-02 19:17:36,195 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mopara\git\SeleniumFrameworkDesign1_Udemy\SeleniumFrameworkDesign1\src\main\resources
 2023-01-02 19:17:36,197 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-01-02 19:17:36,198 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mopara\git\SeleniumFrameworkDesign1_Udemy\SeleniumFrameworkDesign1\src\test\resources
+2023-01-02 19:33:13,779 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-02 19:33:28,869 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-02 19:33:28,869 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mopara\git\SeleniumFrameworkDesign1_Udemy\SeleniumFrameworkDesign1\src\main\resources
+2023-01-02 19:33:28,873 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-02 19:33:28,873 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mopara\git\SeleniumFrameworkDesign1_Udemy\SeleniumFrameworkDesign1\src\test\resources
